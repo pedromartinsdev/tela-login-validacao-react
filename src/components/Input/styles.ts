@@ -6,7 +6,7 @@ export const InputContainer = styled.div`
     height: 42px;
     color: #FFF;
 
-    border: 1px solid #81259D;
+    border: 1px solid #FF5F5D;
     border-radius: 21px;
     overflow: hidden;
     padding: 0 10px;
@@ -23,7 +23,7 @@ export const InputContainer = styled.div`
 `
 
 export const ErrorMessage = styled.p`
-    color: red;
+    color: #FF5F5D;
     font-size:12px;
     margin-top:8px;
     margin-left:10px;
